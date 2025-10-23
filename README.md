@@ -37,4 +37,4 @@ Web Interface: Develop a simple dashboard or mobile app to allow farmers to inpu
 
 Data Enrichment: Integrate satellite imagery data (NDVI) or real-time IoT sensor readings to enhance predictive power.
 
-"The greatest harvest is knowledge; AI helps us plant it wisely."
+**"The greatest harvest is knowledge; AI helps us plant it wisely."**
