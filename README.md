@@ -1,4 +1,4 @@
-#**🪴 AI-Powered Precision Agriculture: Dual-Model Farming Intelligence**
+#**🪴 AI-Powered Precision Agriculture: Dual-Model Farming Intelligence**#
 Tagline: Optimizing farm productivity through predictive crop yield and proactive soil health analysis.
 
 **🔍 1. Overview & Problem Statement**
