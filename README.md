@@ -39,7 +39,9 @@ Data Enrichment: Integrate satellite imagery data (NDVI) or real-time IoT sensor
 
 ## 💻 6. Resources
 Code: 
-Presentation link: https://drive.google.com/file/d/1ukkGfeNs5_0TUzrasF3xo5l6oqwL7l0G/view?usp=sharing
+
+[Presentation link](https://drive.google.com/file/d/1ukkGfeNs5_0TUzrasF3xo5l6oqwL7l0G/view?usp=sharing) 
+
 (Dataset available if needed for academic use)
 
 **"The greatest harvest is knowledge; AI helps us plant it wisely."**
