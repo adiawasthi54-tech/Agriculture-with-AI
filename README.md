@@ -38,9 +38,9 @@ Web Interface: Develop a simple dashboard or mobile app to allow farmers to inpu
 Data Enrichment: Integrate satellite imagery data (NDVI) or real-time IoT sensor readings to enhance predictive power.
 
 ## 💻 6. Resources
-Code: 
+Code: [Google Colab link](https://colab.research.google.com/drive/1hgTegGlKasRZvUjGZCYEOSZ75FvreKkB?usp=sharing)
 
-[Presentation link](https://drive.google.com/file/d/1ukkGfeNs5_0TUzrasF3xo5l6oqwL7l0G/view?usp=sharing) 
+Presentation: [Presentation link](https://drive.google.com/file/d/1ukkGfeNs5_0TUzrasF3xo5l6oqwL7l0G/view?usp=sharing) 
 
 (Dataset available if needed for academic use)
 
